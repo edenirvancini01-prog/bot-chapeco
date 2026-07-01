@@ -4,7 +4,7 @@ import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 # --- CONFIGURAÇÕES DO BOT ---
-TELEGRAM_TOKEN = "8744642328:AAGw5tDvh-AtbjCqnXDVO75sqmOC_WpeXyo"
+TELEGRAM_TOKEN = "HTTP API:8744642328:AAGw5tDvh-AtbjCqnXDVO75sqmOC_WpeXyo"
 CHAT_ID = "1337502984"
 LAT_CHAPECO = -27.1004
 LON_CHAPECO = -52.6152
